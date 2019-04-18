@@ -1,0 +1,11 @@
+The data that you will use for this assignment are for 1999, 2002, 2005, and 2008.
+
+summarySCC_PM25.rds contains PM2.5 data in TONS unit.
+Other columns as per follow:
+fips: A five-digit number (represented as a string) indicating the U.S. county
+SCC: The name of the source as indicated by a digit string (see source code classification table)
+Pollutant: A string indicating the pollutant
+Emissions: Amount of PM2.5 emitted, in tons
+type: The type of source (point, non-point, on-road, or non-road)
+year: The year of emissions recorded
+
